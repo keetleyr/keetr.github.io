@@ -1,2 +1,2 @@
 # keetr.github.io
-my first website
+randy is a open source coder
